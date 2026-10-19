@@ -86,7 +86,7 @@ nav a:hover {
 }
 
 .project-content img {
-    width: 65%;
+    width: 100%;
     max-width: 850px;
     height: auto;
 }
